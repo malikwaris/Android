@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">Meetings Timer</string>
+    <string name="menu_share">Compartir</string>
+    <string name="share_replies">Comentarios:</string>
+    <string name="menu_donate">Donaciones</string>
+    <string name="menu_translate">Traducir</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="redesign">¡Todo ha cambiado! ¡Ahora puedes tocar las tarjetas para iniciar o parar el tiempo. Disfruta!</string>
+    <string name="learn">¡Toca para iniciar/parar el tiempo!</string>
+    <string name="learn2">¡Mantén pulsado para añadir un comentario!</string>
+    <string name="start">Inicia</string>
+    <string name="stop">Para</string>
+    <string name="title">Título</string>
+    <string name="desc">Descripción</string>
+    <string name="overflow">Avanzado</string>
+    <string name="color_stripe">Tira de color</string>
+    <string name="eb">Estudio Bíblico de la Congregación</string>
+    <string name="tms">Escuela del Ministerio Teocrático</string>
+    <string name="reading">Lectura de la Biblia</string>
+    <string name="reading_puntos">Puntos sobresalientes</string>
+    <string name="reading_reply">Comentario</string>
+    <string name="n1">Núm. 1</string>
+    <string name="n2">Núm. 2</string>
+    <string name="n3">Núm. 3</string>
+    <string name="rs">Reunión de Servicio</string>
+    <string name="rs1">Parte 1</string>
+    <string name="rs2">Parte 2</string>
+    <string name="rs3">Parte 3</string>
+    <string name="rs4">Parte 4</string>
+    <string name="toast">La aplicación sigue trabajando.</string>
+    <string name="about_donations">Las donaciones por PayPal no ofrecen ninguna mejora respecto al producto inicial, solo ayudan al desarrollador. Como no proporciona ninguna mejora, no se considera compra de bienes y la aplicación sigue siendo gratuita.</string>
+</resources>

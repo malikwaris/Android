@@ -1,0 +1,21 @@
+<resources>
+ <!-- Example General settings -->
+    <string name="pref_title_mic_replies">Time between replies</string>
+    <string name="pref_description_mic_replies">Number of seconds between each reply within Bible Reading </string>
+    
+    <string-array name="pref_values_mic_replies">
+        <item>1</item>
+        <item>3</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+    </string-array>
+    
+    <string-array name="pref_entries_mic_replies">
+        <item>1 Second</item>
+        <item>3 Seconds</item>
+        <item>6 Seconds</item>
+        <item>8 Seconds</item>
+        <item>10 Seconds</item>
+    </string-array>
+</resources>

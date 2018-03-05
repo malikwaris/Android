@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">Meetings Timer</string>
+    <string name="menu_share">Jaga</string>
+    <string name="share_replies">Vastuseid kokku:</string>
+    <string name="menu_donate">Anneta</string>
+    <string name="menu_translate">Tõlgi</string>
+    <string name="welcome">Teretulemast!</string>
+    <string name="redesign">Asjad on veidike muutunud! Nüüd saad sa aja võtmise alustamiseks või peatamiseks vajutada kaardile. Naudi!</string>
+    <string name="learn">Käivitamiseks/Peamitamiseks vajuta</string>
+    <string name="learn2">Pikk vajutus vastuse lisamiseks!</string>
+    <string name="start">Käivita</string>
+    <string name="stop">Peata</string>
+    <string name="title">Pealkiri</string>
+    <string name="desc">Kirjeldus</string>
+    <string name="overflow">Menüü ülepaigutus</string>
+    <string name="color_stripe">Värviviirg</string>
+    <string name="eb">Koguduse piibliuurimine</string>
+    <string name="eb_short">Koguduse piibliuurimine</string>
+    <string name="tms">Teokraatlik Teenistuskool</string>
+    <string name="reading">Piibli lugemine</string>
+    <string name="reading_puntos">Esiletõstetud kohad</string>
+    <string name="reading_reply">Vastus</string>
+    <string name="n1">Nr. 1</string>
+    <string name="n2">Nr. 2</string>
+    <string name="n3">Nr. 3</string>
+    <string name="rs">Teenistuskoosolek</string>
+    <string name="rs1">1. osa</string>
+    <string name="rs2">2. osa</string>
+    <string name="rs3">3. osa</string>
+    <string name="rs4">4. osa</string>
+    <string name="toast">Rakendus käib taustal edasi, aga see võidakse sulgeda ilma sinu käest kinnitust küsimata.</string>
+    <string name="about_donations">PayPal annetused ei anna õiguseid uuendustele või täiendustele. Need lihtsalt toetavad arendaja tegevust. Kuna need ei anna õigust ühelegi uuendusele, ei peeta seda rakenduse ostmiseks ja rakendus jääb täisfunktsionaalseks ka ilma annetust tegemata.</string>
+</resources>

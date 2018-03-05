@@ -1,0 +1,8 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference
+        android:key="key_mic_replies"
+        android:summary="@string/pref_description_mic_replies"
+        android:title="@string/pref_title_mic_replies"
+        android:entryValues="@array/pref_values_mic_replies"
+        android:entries="@array/pref_entries_mic_replies" />
+</PreferenceScreen>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">Meetings Timer</string>
+    <string name="menu_share">Condividi</string>
+    <string name="share_replies">Risposte Totali:</string>
+    <string name="menu_donate">Dona</string>
+    <string name="menu_translate">Traduci</string>
+    <string name="welcome">Benvenuto!</string>
+    <string name="redesign">Le cose sono cambiate un po\'! Ora è possibile toccare le carte per avviare/arrestare il cronometro. Buon cronometraggio!</string>
+    <string name="learn">Premi per Avviare/Arrestare!</string>
+    <string name="learn2">Premi a lungo per aggiungere una risposta!</string>
+    <string name="start">Avvia</string>
+    <string name="stop">Stop</string>
+    <string name="title">Titolo</string>
+    <string name="desc">Descrizione</string>
+    <string name="overflow">Menù Opzioni</string>
+    <string name="color_stripe">Banda di Colore</string>
+    <string name="eb">Studio di Libro di Congregazione</string>
+    <string name="eb_short">Studio di Libro</string>
+    <string name="tms">Scuola di Ministero Teocratico</string>
+    <string name="reading">Lettura della Bibbia</string>
+    <string name="reading_puntos">Commenti</string>
+    <string name="reading_reply">Risposta</string>
+    <string name="n1">N. 1</string>
+    <string name="n2">N. 2</string>
+    <string name="n3">N. 3</string>
+    <string name="rs">Adunanza di Servizio</string>
+    <string name="rs1">Parte 1</string>
+    <string name="rs2">Parte 2</string>
+    <string name="rs3">Parte 3</string>
+    <string name="rs4">Parte 4</string>
+    <string name="toast">L\'App lavorerà in background. Continuerà a lavorare, ma può chiudersi senza la tua conferma.</string>
+    <string name="about_donations">Le donazioni PayPal non concedono alcun aggiornamento o miglioramento, si limitano a sostenere il lavoro dello sviluppatore. Poiché la donazione non concede alcun aggiornamento, non è considerato un acquisto e l\'App resta funzionale anche senza una donazione.</string>
+</resources>

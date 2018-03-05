@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">Temporizador de Reuniões </string>
+    <string name="menu_share">Compartilhe</string>
+    <string name="share_replies">Total de Comentários</string>
+    <string name="menu_donate">Doação</string>
+    <string name="menu_translate">Traduza</string>
+    <string name="welcome">Bem Vindo!</string>
+    <string name="redesign">As coisas mudaram um pouco! Você pode agora tocar os cartões para iniciar/parar o tempo. Aproveite!</string>
+    <string name="learn">Toque para Iniciar/Parar!</string>
+    <string name="learn2">Toque longo para adicionar um comentário!</string>
+    <string name="start">Iniciar</string>
+    <string name="stop">Parar</string>
+    <string name="title">Tema</string>
+    <string name="desc">Descrição</string>
+    <string name="overflow">Menu Overflow</string>
+    <string name="color_stripe">Cor da Tira</string>
+    <string name="eb">Estudo Bíblico de Congregação</string>
+    <string name="eb_short">Estudo Bíblico</string>
+    <string name="tms">Escola do Ministério Teocrático</string>
+    <string name="reading">Destaques da Leitura da Bíblia</string>
+    <string name="reading_puntos">Destaques</string>
+    <string name="reading_reply">Comentário</string>
+    <string name="n1">No. 1</string>
+    <string name="n2">No. 2</string>
+    <string name="n3">No. 3</string>
+    <string name="rs">Reunião de Serviço</string>
+    <string name="rs1">Parte 1</string>
+    <string name="rs2">Parte 2</string>
+    <string name="rs3">Parte 3</string>
+    <string name="rs4">Parte 4</string>
+    <string name="toast">O App rodará em background. Ele continua funcionando, mas pode fechado sem sua confirmação.</string>
+    <string name="about_donations">Donativos pelo PayPal não garantem nenhum upgrade or melhoramento, apenas colabora com o trabalho do desenvolvedor. Como não garante um upgrade, não e considerado uma compra a o App mantém toda a funcionalidade mesmo sem doação.</string>
+</resources>
